@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/phuongnam98pt/test.git/static/css/main.6bbe1c54.css",
-    "main.js": "/phuongnam98pt/test.git/static/js/main.117ffe5a.js",
-    "static/js/787.4c9d15e8.chunk.js": "/phuongnam98pt/test.git/static/js/787.4c9d15e8.chunk.js",
-    "static/media/avatar.png": "/phuongnam98pt/test.git/static/media/avatar.e2e3a1e98b07162b5c66.png",
-    "static/media/ProximaNova-Semibold.woff2": "/phuongnam98pt/test.git/static/media/ProximaNova-Semibold.db7972dbe0b808f96bae.woff2",
-    "static/media/sofiapro-bold.woff": "/phuongnam98pt/test.git/static/media/sofiapro-bold.086ed00f3060992f2938.woff",
-    "static/media/Proxima-Nova-Bold.woff": "/phuongnam98pt/test.git/static/media/Proxima-Nova-Bold.6cd7dcaa6293ecf61e80.woff",
-    "static/media/Proxima-Nova-Regular.woff2": "/phuongnam98pt/test.git/static/media/Proxima-Nova-Regular.6c83037ae28747e6d774.woff2",
-    "static/media/logo.svg": "/phuongnam98pt/test.git/static/media/logo.3cd08bc06988cfb99d156f762ae23257.svg",
-    "index.html": "/phuongnam98pt/test.git/index.html",
-    "main.6bbe1c54.css.map": "/phuongnam98pt/test.git/static/css/main.6bbe1c54.css.map",
-    "main.117ffe5a.js.map": "/phuongnam98pt/test.git/static/js/main.117ffe5a.js.map",
-    "787.4c9d15e8.chunk.js.map": "/phuongnam98pt/test.git/static/js/787.4c9d15e8.chunk.js.map"
+    "main.css": "/phuongnam98pt/test/static/css/main.31863563.css",
+    "main.js": "/phuongnam98pt/test/static/js/main.5c155809.js",
+    "static/js/787.4c9d15e8.chunk.js": "/phuongnam98pt/test/static/js/787.4c9d15e8.chunk.js",
+    "static/media/avatar.png": "/phuongnam98pt/test/static/media/avatar.e2e3a1e98b07162b5c66.png",
+    "static/media/ProximaNova-Semibold.woff2": "/phuongnam98pt/test/static/media/ProximaNova-Semibold.db7972dbe0b808f96bae.woff2",
+    "static/media/sofiapro-bold.woff": "/phuongnam98pt/test/static/media/sofiapro-bold.086ed00f3060992f2938.woff",
+    "static/media/Proxima-Nova-Bold.woff": "/phuongnam98pt/test/static/media/Proxima-Nova-Bold.6cd7dcaa6293ecf61e80.woff",
+    "static/media/Proxima-Nova-Regular.woff2": "/phuongnam98pt/test/static/media/Proxima-Nova-Regular.6c83037ae28747e6d774.woff2",
+    "static/media/logo.svg": "/phuongnam98pt/test/static/media/logo.3cd08bc06988cfb99d156f762ae23257.svg",
+    "index.html": "/phuongnam98pt/test/index.html",
+    "main.31863563.css.map": "/phuongnam98pt/test/static/css/main.31863563.css.map",
+    "main.5c155809.js.map": "/phuongnam98pt/test/static/js/main.5c155809.js.map",
+    "787.4c9d15e8.chunk.js.map": "/phuongnam98pt/test/static/js/787.4c9d15e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bbe1c54.css",
-    "static/js/main.117ffe5a.js"
+    "static/css/main.31863563.css",
+    "static/js/main.5c155809.js"
   ]
 }
