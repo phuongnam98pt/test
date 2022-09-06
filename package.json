@@ -2,7 +2,7 @@
   "name": "react-typescript-login-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://phuongnam98pt.github.io/test/",
+  "homepage": "https://github.com/phuongnam98pt/test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.2.7",
